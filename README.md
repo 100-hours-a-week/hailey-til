@@ -1,4 +1,4 @@
-# :computer: Today I Learned
+# :musical_keyboard: Today I Learned
 
 ### [4월 넷째주, 4주차] : javascript
 

@@ -1,0 +1,27 @@
+# TIL Template
+
+## 날짜: YYYY-MM-DD
+
+### 스크럼
+- 학습 목표 1 : 깃 심화 학습
+- 학습 목표 2 : route-controller-model 구조 파악하기
+
+### 새로 배운 내용
+#### 주제 1: git
+- organization, upstream 이해
+- merge 후 conflict 해결
+
+#### 주제 2: route-control-model
+- route 가 http 요청 가장 먼저 받음 -> 요청에 맞게 경로를 나눠줌 -> controller는 http 요청에 맞게 동작 -> model은 데이터를 가져오고 반환
+
+### 오늘의 도전 과제와 해결 방법
+- 도전 과제 1: 시간 관리를 위해 (코딩 빡집중) 와카타임 써보기
+- 도전 과제 2: 마크다운 적응하기
+- 도전 과제 3: 현재까지 짠 community에 route-controller-model 적용하기
+
+### 오늘의 회고
+- git 을 제대로 사용하자. 기록하기
+- 먼저 거시적으로 보고 이해하는 습관을 가지자. 그냥 구현만 하는 것은 의미가 없지요~
+
+### 참고 자료 및 링크
+

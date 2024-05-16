@@ -1,4 +1,4 @@
-2024-04-23
+2024-05-16
 
 * 스크럼
 - 학습 목표 1 : JDK JRE JVM
@@ -10,7 +10,8 @@
 주제 1: JDK JRE JVM
 - JDK(Java Development Kit) : 자바 애플리케이션을 개발하고 실행하기 위해 필요한 모든 도구 (JRE, 컴파일러, 디버거 등등)
 - JRE(Java Runtime Environment) : 자바 실행을 위한 환경, 배포 할때는 JRE만 있어도 실행에 필요한 환경을 구성할 수 있음
-- JVM(Java Virtual Machine) : 컴파일러를 통해 자바 파일을 .class 파일(바이트코드)로 바뀌고 JVM에서 class loader 가 바이트 코드를 가지고오고 Runtime Data Area가 메모리에 올리고 Excution Engine이 실행을 함
+- JVM(Java Virtual Machine) : 컴파일러를 통해 자바 파일을 .class 파일(바이트코드)로 바뀌고 
+                            JVM에서 class loader 가 바이트 코드를 가지고오고 Runtime Data Area가 메모리에 올리고 Excution Engine이 실행을 함
 - Runtime Data Area 는 쓰레드(PC Register, JVM Stack, Native Method Area), 힙, 메서드 영역 으로 나누어짐
 
 주제 2: 접근 제어자

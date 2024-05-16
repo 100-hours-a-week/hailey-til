@@ -7,4 +7,4 @@
 ### [5월 첫째주, 1주차] : react
 
 24.05.02 javascript, react ([detail](https://github.com/100-hours-a-week/hailey-til/blob/main/May/2024-05-02))  
-24.05.16 javascript, react ([detail](https://github.com/100-hours-a-week/hailey-til/blob/main/May/2024-05-16))
+24.05.16 java ([detail](https://github.com/100-hours-a-week/hailey-til/blob/main/May/2024-05-16))
